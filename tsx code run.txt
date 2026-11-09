@@ -1,0 +1,3 @@
+Terminal এ সরাসরি ts code run দেখার জন্য
+npx tsx src/index.ts
+npx tsx watch src/index.ts
